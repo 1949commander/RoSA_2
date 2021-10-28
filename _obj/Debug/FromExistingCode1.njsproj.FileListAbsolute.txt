@@ -1,0 +1,3 @@
+C:\Revature\Reeves-P1\Store\obj\Debug\FromExistingCode1.njsproj.AssemblyReference.cache
+C:\Revature\Reeves-P1\Store\obj\Debug\FromExistingCode1.njsproj.CoreCompileInputs.cache
+C:\Revature\Reeves-P1\Store\bin\Microsoft.NodejsTools.WebRole.dll
